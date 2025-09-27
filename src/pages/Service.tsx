@@ -14,7 +14,7 @@ const Service: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Services</IonTitle>
+            <IonTitle size="large">Service</IonTitle>
           </IonToolbar>
         </IonHeader>
       </IonContent>
