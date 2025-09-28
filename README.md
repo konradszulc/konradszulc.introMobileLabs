@@ -7,3 +7,4 @@ Included will be folders labeled by their lab numbers. Each containing a report 
 Table of Contents
 
 [Lab Report 1](labwork-1/Konrad_Szulc_Mobile_Labwork-1.pdf)
+[Lab Report 2](Labwork-2/Konrad_Szulc_Mobile_Labwork-2.pdf)
