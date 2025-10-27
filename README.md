@@ -11,3 +11,5 @@ Table of Contents
 [Lab Report 2](Labwork-2/Konrad_Szulc_Mobile_Labwork-2.pdf)
 
 [Lab Report 3](Labwork-3/Konrad_Szulc_Mobile_Labwork-3.pdf)
+
+[Lab Report 4](Labwork-4/Konrad_Szulc_Mobile_Labwork-4.pdf)
